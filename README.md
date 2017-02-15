@@ -49,7 +49,7 @@ npm run dev
 
 ---
 ### 可能遇到的问题
-1. `npm run dev`启动报错, 见[vue1](https://github.com/Virgo9/myNotes/blob/master/vue-version.md#vue1项目)
+1. `npm run dev`启动报错, 见[vue1](https://github.com/Virgo9/myNotes/blob/master/vue/vue-version.md#vue1项目)
 
 ---
 ### 需要优化

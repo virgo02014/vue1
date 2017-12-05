@@ -34,7 +34,7 @@ vue1
 ### 安装
 1. 克隆项目
 ```
-git clone https://github.com/Virgo9/vue1.git
+git clone https://github.com/virgo02014/vue1.git
 ```
 
 2. 通过`npm`安装本地服务第三方依赖模块(确保已安装[Node.js](https://nodejs.org/))
@@ -46,10 +46,6 @@ npm install
 ```
 npm run dev
 ```
-
----
-### 可能遇到的问题
-1. `npm run dev`启动报错, 见[vue1](https://github.com/Virgo9/myNotes/blob/master/vue/vue-version.md#vue1项目)
 
 ---
 ### 需要优化
